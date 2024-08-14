@@ -236,7 +236,7 @@ If you want to customize or further develop the application:
 
    ```bash
 
-   git clone https://github.com/your-username/spaarks-backend.git
+   git clone https://github.com/Darkdriller/spaarks-backend.git
 
    ```
 
