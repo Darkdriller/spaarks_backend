@@ -33,3 +33,9 @@ class RestaurantOutput(BaseModel):
     location: Location
     average_rating: Optional[float] = None
     no_of_ratings: int = 0
+
+class User(BaseModel):
+    username: str
+
+class UserInDB(User):
+    hashed_password: str
