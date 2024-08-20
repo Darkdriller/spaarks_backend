@@ -1,7 +1,7 @@
 # Spaarks Backend API
 
 
-This project provides a backend API for managing restaurant data, including querying based on geolocation. The API is built using FastAPI and MongoDB and is containerized using Docker.
+This project provides a backend API for managing restaurant data, including querying based on geolocation. The API is built using FastAPI and MongoDB and is containerized using Docker. Test for the Internship position at spaarks
 
 
 ## Prerequisites
